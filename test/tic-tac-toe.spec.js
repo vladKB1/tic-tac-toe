@@ -1,4 +1,4 @@
-const TicTacToe = require('../src/tic-tac-toe.js');
+TicTacToe = require('../src/tic-tac-toe.js');
 
 describe('TicTacToe', () => {
     describe('#getCurrentPlayerSymbol', () => {
